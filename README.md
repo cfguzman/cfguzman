@@ -1,6 +1,6 @@
 #  Welcome :wave:
 
-I am an [Assistant Professor at the Civil Engineering Department](https://obrasciviles.usach.cl/academicos/carlos-felipe-guzman/) of University of Santiago (USACH), Chile. My research interest are mostly related with numerical and experimental characterization of non-linear phenomena in structural materials.
+I am an [Associate Professor at the Civil Engineering Department](https://obrasciviles.usach.cl/carlos-felipe/) of the University of Santiago (USACH), Chile. My research interest are mostly related with numerical and experimental characterization of non-linear phenomena in structural materials and geomaterials.
 
 This page mainly contains private repositories for my students' work. However, I will also share some of my own personal projects that I've developed over the years. Most of our programming output ends up in the [MASTER group](https://github.com/MASTER-OOCC "MASTER") repositories.
 
